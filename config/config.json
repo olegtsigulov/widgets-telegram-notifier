@@ -1,0 +1,8 @@
+{
+  "staging": {
+    "TELEGRAM_BOT_TOKEN": "1016459889:AAH4HuYcGavFv0uecQdKEs00xVdUbC4fJxw"
+  },
+  "development": {
+    "TELEGRAM_BOT_TOKEN": "1016459889:AAH4HuYcGavFv0uecQdKEs00xVdUbC4fJxw"
+  }
+}
